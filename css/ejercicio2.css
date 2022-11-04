@@ -1,0 +1,70 @@
+html {
+  font-size: 14px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #08246c; 
+  color: white;
+  padding: 0 20px;
+}
+
+main {
+  padding: 10px 60px;
+}
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.caja {
+  width: 300px;
+  height: 100px;
+  margin: 20px 50px;
+  background-color: #e4e4e4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.caja1 {
+  box-shadow: -6px -6px 0 0 #696868;
+}
+.caja2 {
+  box-shadow: -6px -6px 6px 0 #696868;
+}
+.caja3 {
+  box-shadow: -10px -10px 0 10px #696868;
+}
+.caja4 {
+  box-shadow: -10px -10px 10px 10px #696868;
+}
+.caja5 {
+  box-shadow: 0 0 10px 0 #696868;
+}
+.caja6 {
+  box-shadow: 0 0 15px 10px #696868;
+}
+.caja7 {
+  box-shadow: inset -6px -6px 0 0 #696868;
+}
+.caja8 {
+  box-shadow: inset -6px -6px 6px 0 #696868;
+}
+.caja9 {
+  box-shadow: inset -10px -10px 0 10px #696868;
+}
+.caja10 {
+  box-shadow: inset -10px -10px 10px 10px #696868;
+}
+.caja11 {
+  box-shadow: inset 0 0 10px 0 #696868;
+}
+.caja12 {
+  box-shadow: inset 0 0 15px 10px #696868;
+}

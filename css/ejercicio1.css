@@ -1,0 +1,40 @@
+html {
+  font-size: 14px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #08246c; 
+  color: white;
+  padding: 0 20px;
+}
+
+main {
+  padding: 20px 20px;
+}
+
+.lista {
+  color: black;
+}
+
+.li__1 {
+  color: blue;
+  font-size: 14px;
+}
+.li__2 {
+  font-size: 18px;
+}
+.li__3 {
+  font-size: 22px;
+}
+.li__4 {
+  font-size: 26px;
+}
+.li__5 {
+  font-size: 30px;
+  color: blue;
+}
